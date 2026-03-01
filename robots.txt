@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gmapsranker.github.io/1st-meridian-prime-c-21f36a75-1634126a/sitemap.xml
+Sitemap: https://1st-meridian-prime-c-21f36a75-1634126a.pages.dev/sitemap.xml
